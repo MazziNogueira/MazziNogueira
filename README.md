@@ -1,16 +1,32 @@
-### Hi there 👋
+# Hi! 👋🏽 I'm Marina, but you can call me Mazzi!
 
-<!--
-**MazziNogueira/MazziNogueira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### A full stack web developer and programming instructor from Brazil 🖥️ 🇧🇷
 
-Here are some ideas to get you started:
+I'm also a film producer 🎥 and a passionate about nature 🌿 and outdoor activities ⛺
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## More about me! 😺
+
+  - 🔭 I'm currently working as a programming instructor, teaching frontend and backend contents 🧑🏽‍🏫
+  - 🌱 I'm currently studying Typescript, Node.js and SQL
+  - I'm looking to collaborate on FOSS iniatives and also on diversity projects 🌈
+  - Pronouns: she/her | they/them ( ela/dela | elu/delu ) 🧑🏽‍💻
+  - Fun facts: I love sharks 🦈 and my "rubber duck" is Majin Boo 🦆
+
+## My stack:
+
+Git, HTML5, CSS3, Javascript, Typescript, ReactJS, Node.js, SQL, styled-components, Material-UI
+
+#### Other tools and utilities:
+
+💻 Visual Studio Code, Postman, Insomnia
+
+🙊 Trello, Airtable, Notion, Slack, Discord
+
+🎨 Photoshop, Premiere
+
+
+### Want to reach me?
+
+mazzinogueira@gmail.com 
+
+[LinkedIn](https://www.linkedin.com/in/mazzinogueira/)
